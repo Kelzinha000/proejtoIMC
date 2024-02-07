@@ -1,0 +1,38 @@
+.titulo{
+  font-size: 40px;  
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 25px;
+  padding: 10px;
+}
+body{
+    background-color:antiquewhite;
+}
+.box{
+   width:  200px; 
+   height: 300px;
+   padding: 50px;
+   padding-bottom: 100px;
+   border-radius: 30px;
+   font-size: 25px;
+   margin-left: 700px;
+   margin-top: 100px;
+   margin-bottom: 100px;
+   background-color: hotpink;
+   
+   
+   
+}
+.button{ 
+    background-color: rgb(232, 232, 163);
+    font-size: 20px;
+    margin-left: 60px;
+    
+}
+.input{
+    margin: 10px;
+    margin-right: 10px;
+}
+
+
+
